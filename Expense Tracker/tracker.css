@@ -183,7 +183,7 @@ h3:hover, .add:hover{
 
 
 .legend_essentials {
-    margin-top: -70px;
+    margin-top: -63px;
     height: 60px;
     grid-area: legend;
     border-top: 2.5px solid #5a5966;
@@ -195,7 +195,7 @@ h3:hover, .add:hover{
 }
 
 .legend_luxuries{
-    margin-top: -70px;
+    margin-top: -63px;
     height: 60px;
     grid-area: legend;
     border-top: 2.5px solid #5a5966;
